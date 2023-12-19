@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alo-jose
+👋 Hi, I’m @alo-jose
 
 <!---
 alo-jose/alo-jose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
